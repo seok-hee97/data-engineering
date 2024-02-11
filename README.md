@@ -26,7 +26,7 @@ custom_elt_project
 
 
 #### dbt
-dbt(Data Build Tool)1
+dbt(Data Build Tool)
 ```
 
 ```
