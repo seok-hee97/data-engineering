@@ -9,6 +9,7 @@ https://docs.docker.com/get-started/
 
 
 #### SQL
+- practice used by docekr image(postgres)
 ```
 docker pull postgres
 
