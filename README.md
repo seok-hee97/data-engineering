@@ -8,8 +8,8 @@ docker-tutorial folder
 https://docs.docker.com/get-started/
 
 
-#### SQL
-- practice used by docekr image(postgres)
+#### SQL   
+- practice used by docekr image(postgres)     
 ```
 docker pull postgres
 
