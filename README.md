@@ -4,7 +4,7 @@
 #### Docker
 docker-tutorial folder
 
-- Docker Getting 
+- Docker Getting        
 https://docs.docker.com/get-started/
 
 
